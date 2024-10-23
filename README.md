@@ -8,7 +8,6 @@
 - <a href="https://yu-2025.github.io/inf/info_DE.html" target="_blank">DE - JAGO – Plattform zum Entwerfen und Entwickeln von Programmen für verschiedene Zwecke (2023).</a>
 - <a href="https://yu-2025.github.io/inf/info_FR.html" target="_blank">FR - JAGO - plateforme de conception et de développement de programmes à des fins diverses (2023).</a>
 - <a href="https://yu-2025.github.io/inf/info_ES.html" target="_blank">ES - JAGO - plataforma para diseñar y desarrollar programas para diversos fines (2023)
-
 .</a>
 
 </strong>
