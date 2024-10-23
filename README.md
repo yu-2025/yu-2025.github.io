@@ -2,7 +2,7 @@
 
 <strong>
   
-- <a href="https://yu-2025.github.io/inf/info_EN.html" target="_blank">EN - How to Program Java, Kotlin, Clojure, Groovy, Scala and Jython Simultaneously.</a>
+- <a href="https://yu-2025.github.io/inf/info_EN.html" target="_blank">EN - JAGO - platform for designing and developing programs for various purposes (2023).</a>
 - <a href="https://yu-2025.github.io/inf/info_RU.html" target="_blank">RU - Как программировать одновременно на Java, Kotlin, Clojure, Groovy, Scala и Jython.</a>
 - <a href="https://yu-2025.github.io/inf/info_LV.html" target="_blank">LV - Kā programmēt Java, Kotlin, Clojure, Groovy, Scala un Jython vienlaicīgi.</a>
 - <a href="https://yu-2025.github.io/inf/info_DE.html" target="_blank">DE - So programmieren Sie Java, Kotlin, Clojure, Groovy, Scala und Jython gleichzeitig.</a>
