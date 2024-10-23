@@ -20,7 +20,7 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://yu-2025.github.io/yu-java" target="_blank"><img src="https://yu-2025.github.io/yu-java/screen/JAV_10_tabs.jpg" width="500" height="300"></a>
+      <a href="https://yu-2025.github.io/yu-jago" target="_blank"><img src="https://yu-2025.github.io/yu-jago/screen/JAGO_START_normal.jpg" width="500" height="300"></a>
     </td>
   </tr>
 </table>
@@ -28,31 +28,7 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://yu-2025.github.io/yu-kotlin" target="_blank"><img src="https://yu-2025.github.io/yu-kotlin/screen/KOT_10_tabs.jpg" width="500" height="300"></a>
-    </td>
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://yu-2025.github.io/yu-clojure" target="_blank"><img src="https://yu-2025.github.io/yu-clojure/screen/CLO_07_internal_frame_six.jpg" width="500" height="300"></a>
-    </td>
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://yu-2025.github.io/yu-groovy" target="_blank"><img src="https://yu-2025.github.io/yu-groovy/screen/GRO_10_tabs.jpg" width="500" height="300"></a>
-    </td>
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://yu-2025.github.io/yu-scala" target="_blank"><img src="https://yu-2025.github.io/yu-scala/screen/SCA_07_internal_frame_six.jpg" width="500" height="300"></a>
+      <a href="https://yu-2025.github.io/yu-jago-ai" target="_blank"><img src="https://yu-2025.github.io/yu-jago-ai/screen/JAGO-AI_START_normal.jpg" width="500" height="300"></a>
     </td>
   </tr>
 </table>
