@@ -26,6 +26,18 @@
   </tr>
 </table>
 
+<strong>
+  
+- <a href="https://yu-2025.github.io/inf/info_EN.html" target="_blank">EN - JAGO-AI - platform for designing and developing programs for various purposes (2023).</a>
+- <a href="https://yu-2025.github.io/inf/info_RU.html" target="_blank">RU - JAGO - платформа для проектирования и разработки программ различного назначения (2023).</a>
+- <a href="https://yu-2025.github.io/inf/info_LV.html" target="_blank">LV - JAGO - platforma dažādu mērķu programmu projektēšanai un izstrādei (2023).</a>
+- <a href="https://yu-2025.github.io/inf/info_DE.html" target="_blank">DE - JAGO – Plattform zum Entwerfen und Entwickeln von Programmen für verschiedene Zwecke (2023).</a>
+- <a href="https://yu-2025.github.io/inf/info_FR.html" target="_blank">FR - JAGO - plateforme de conception et de développement de programmes à des fins diverses (2023).</a>
+- <a href="https://yu-2025.github.io/inf/info_ES.html" target="_blank">ES - JAGO - plataforma para diseñar y desarrollar programas para diversos fines (2023)
+.</a>
+
+</strong>
+
 <table border="0">
   <tr>
     <td>
