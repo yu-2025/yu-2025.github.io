@@ -33,7 +33,7 @@
 - <a href="https://yu-2025.github.io/inf/info_AI_LV.html" target="_blank">LV - JAGO-AI - platforma neironu tīklu un AI programmu izstrādei (2024).</a>
 - <a href="https://yu-2025.github.io/inf/info_AI_DE.html" target="_blank">DE - JAGO-AI – Plattform zur Entwicklung von Programmen für neuronale Netze und KI (2024).</a>
 - <a href="https://yu-2025.github.io/inf/info_AI_FR.html" target="_blank">FR - JAGO-AI - plateforme de développement de programmes pour les réseaux de neurones et l'IA (2024).</a>
-- <a href="https://yu-2025.github.io/inf/info_ES.html" target="_blank">ES - JAGO-AI - plataforma para el desarrollo de programas para redes neuronales e IA (2024).</a>
+- <a href="https://yu-2025.github.io/inf/info_AI_ES.html" target="_blank">ES - JAGO-AI - plataforma para el desarrollo de programas para redes neuronales e IA (2024).</a>
 
 </strong>
 
